@@ -3,11 +3,10 @@
 <h1 align="center">🚀 Turning Ideas into Code </h1>
 <h3 align="center">💻 Software Developer | 📊 Data Scientist | 🌐 Full-Stack Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shweta-sh15/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://intagram.com/](https://www.instagram.com/_shivii_04_/)"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <a href = "mailto:patelshweta255@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<h2>Let's Connect: </h2>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_shivii_04_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-sh15/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelshweta255@gmail.com) 
+
 
 ---
 ![Working](https://raw.githubusercontent.com/Shweta-SH15/Shweta-SH15/master/shweta-sh15.gif)
