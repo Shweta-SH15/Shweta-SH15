@@ -69,17 +69,19 @@
 
 ## 📌 Projects
 
-### 🧠 Machine Learning Model Deployment with Flask API  
-- Built a cancer classification ML model deployed via Flask API with endpoints for prediction and feature explanation.  
-- Focused on model optimization and accuracy through testing and performance evaluation.
+### 💬 NLP Sentiment Analysis  
+- Developed a sentiment analysis model using Yelp review data with text preprocessing, feature extraction, and Multinomial Naive Bayes classification.
+- Optimized model using GridSearchCV and deployed via Flask, achieving high accuracy in predicting review sentiment.
+
 
 ### 🏨 Hotel Management System (MySQL)  
 - Designed a robust MySQL-based system managing hotel operations like staff, guests, and room facilities.  
 - Included modular design for roles (e.g., cooking, cleaning) and facility tracking.
 
-### 🌐 Personal Portfolio Website  
-- Responsive portfolio site featuring project highlights and personal info.  
-- Used HTML, CSS, and JavaScript to ensure accessibility and user experience across devices.
+### 🌌 Astronomy FAQ Full Stack Application 
+- Developed a full-stack Astronomy FAQ application utilizing Ionic Framework, Node.js/Express.js, and MongoDB with complete CRUD functionality.
+- Implemented a responsive UI with structured navigation and interactive components, enhancing usability and user engagement.
+
 
 ### 🎮 BlackJack Game  
 - Implemented a console-based Blackjack game with dynamic logic for cards, scoring, and game state.  
